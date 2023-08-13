@@ -1,0 +1,248 @@
+﻿Horodateur,Genre,Age,Etat-civile,Niveau-d’étude,Profession,Relation,Temps-au-sein-de-votre-eSE,Nbr-enfants,Salaire
+2023/01/22 6:19:43 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Ami,1,0,50
+2023/01/22 6:42:57 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Ami,0.5,0,30
+2023/01/22 6:51:10 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,,Etudiant,Familier,1,0,50
+2023/01/22 6:53:03 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude Secondaire,Etudiant,Familier,2,1,0
+2023/01/23 2:46:30 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,autres,Ingénieur,Parents-fils,10,0,100
+2023/01/23 2:52:23 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Autres,Ami,0.5,0,30
+2023/01/23 2:55:13 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Parents-fils,10,0,50
+2023/01/23 6:32:24 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Pas d’étude,Commerçant,Employé-Employeur,3,2,80
+2023/01/23 9:28:13 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Ami,1,0,100
+2023/01/24 10:42:24 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Employé-Employeur,2,0,30
+2023/01/25 11:20:41 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,autres,Ingénieur,Employé-Employeur,1,0,50
+2023/01/25 11:33:42 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,4,0,90
+2023/01/25 11:40:52 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Autres,Employé-Employeur,3,0,45
+2023/01/25 11:43:12 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,4,0,50
+2023/01/26 12:28:56 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Familier,3,0,30
+2023/01/26 12:29:00 AM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude primaire,Autres,Employé-Employeur,0.5,0,25
+2023/01/26 12:30:42 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Autres,Copain,2,0,150
+2023/01/26 6:29:11 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Ingénieur,Employé-Employeur,3,0,185
+2023/01/26 6:58:38 AM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Familier,1,0,100
+2023/01/26 7:17:53 AM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,1,0,30
+2023/01/26 7:33:41 AM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Familier,2,10,500
+2023/01/26 7:45:54 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Ami,3,0,100
+2023/01/26 8:21:10 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Ami,1,0,50
+2023/01/26 9:36:56 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,3,2,30
+2023/01/27 10:52:18 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,2,0,500
+2023/01/27 11:04:16 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ménagère,Employé-Employeur,0.5,10,200
+2023/01/27 11:06:41 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,0.5,0,500
+2023/01/27 11:18:13 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,2,0,80
+2023/01/27 11:59:26 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Employé-Employeur,0.5,1,600
+2023/01/28 6:25:41 AM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Employé-Employeur,2,2,100
+2023/01/28 9:28:06 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Familier,2,10,200
+2023/01/29 11:21:22 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Employé-Employeur,0.5,0,150
+2023/01/30 8:01:44 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Parents-fils,10,0,150
+2023/02/08 2:44:55 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Employé-Employeur,2,0,50
+2023/02/08 3:38:04 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,5,0,100
+2023/02/08 3:39:02 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,5,0,100
+2023/02/08 6:11:26 PM UTC+3,Masculin,20 ans - 30 ans,Marié,autres,Commerçant,Employé-Employeur,5,1,50
+2023/02/08 6:13:46 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,2,0,300
+2023/02/08 9:13:00 PM UTC+3,Féminin,20 ans - 30 ans,Marié,Etude Secondaire,Autres,Familier,10,0,15
+2023/02/09 4:48:51 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,autres,Autres,Employé-Employeur,2,0,70
+2023/03/21 12:57:01 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Médecin,Employé-Employeur,10,10,400
+2023/03/21 1:06:55 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,0.5,0,50
+2023/03/21 3:14:07 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Autres,Employé-Employeur,0.5,0,500
+2023/03/21 3:18:01 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Familier,0.5,2,150
+2023/03/21 3:20:57 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Ingénieur,Employé-Employeur,0.5,0,300
+2023/03/21 3:25:04 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,5,0,50
+2023/03/21 4:16:32 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Ami,2,2,1500
+2023/03/21 4:44:03 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,0.5,0,100
+2023/03/21 10:03:42 PM UTC+3,Masculin,20 ans - 30 ans,Marié,Etude Secondaire,Autres,Familier,1,10,100
+2023/03/22 11:13:11 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Familier,1,0,25
+2023/03/22 12:43:22 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Ami,1,0,70
+2023/03/22 8:37:31 PM UTC+3,Féminin,20 ans - 30 ans,Marié,Etude universitaire,Commerçant,Familier,3,0,50
+2023/03/22 9:52:22 PM UTC+3,Masculin,30 ans - 50 ans,Marié,autres,Autres,Employé-Employeur,10,10,1000
+2023/03/23 6:43:50 AM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Enseignant,Employé-Employeur,0.5,0,150
+2023/03/23 8:10:24 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Autres,Employé-Employeur,0.5,0,200
+2023/03/24 2:16:41 PM UTC+3,Masculin,15 - 20 ans,Marié,Pas d’étude,Ménagère,Familier,0.5,0,30
+2023/03/24 2:18:30 PM UTC+3,Féminin,20 ans - 30 ans,Marié,Etude Secondaire,Commerçant,Ami,1,1,50
+2023/03/24 2:21:00 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Ami,3,1,450
+2023/04/08 3:00:58 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,2,0,20
+2023/04/17 6:55:41 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Familier,1,0,100
+2023/04/17 6:59:52 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Enseignant,Employé-Employeur,5,0,150
+2023/04/17 7:08:28 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Commerçant,Parents-fils,3,2,120
+2023/04/17 7:32:31 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Enseignant,Employé-Employeur,3,0,300
+2023/04/17 8:08:33 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,2,2,90
+2023/04/17 9:12:51 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Ami,10,0,90
+2023/04/18 8:52:52 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,1,0,90
+2023/04/18 9:37:21 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,2,0,200
+2023/04/18 9:49:34 AM UTC+3,Masculin,20 ans - 30 ans,Marié,Etude universitaire,Ingénieur,Ami,0.5,0,200
+2023/04/18 9:50:26 AM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Employé-Employeur,3,10,300
+2023/04/18 9:57:33 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Autres,1,0,100
+2023/04/18 10:47:37 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Autres,3,0,100
+2023/04/19 11:26:26 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Employé-Employeur,0.5,0,100
+2023/04/19 11:28:01 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Familier,5,0,300
+2023/04/19 11:39:40 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,autres,Autres,Employé-Employeur,3,0,300
+2023/04/20 6:05:01 PM UTC+3,Masculin,50 ans - 65,Marié,autres,Agriculteur,Employé-Employeur,4,10,300
+2023/04/20 6:17:05 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Autres,Employé-Employeur,0.5,0,500
+2023/05/03 2:37:58 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Familier,5,0,150
+2023/05/03 2:38:59 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude Secondaire,Ingénieur,Ami,1,0,200
+2023/05/03 2:39:47 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Enseignant,Ami,1,0,500
+2023/05/03 2:40:45 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Ménagère,Familier,3,1,50
+2023/05/03 2:41:29 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Commerçant,Conjoint,2,1,100
+2023/05/03 2:42:15 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Enseignant,Conjoint,3,2,500
+2023/05/03 2:43:18 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Conjoint,1,1,150
+2023/05/03 2:44:10 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Agriculteur,Ami,3,0,150
+2023/05/03 2:44:54 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude Secondaire,Ingénieur,Ami,3,2,200
+2023/05/03 2:45:55 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Enseignant,Autres,1,1,300
+2023/05/03 2:46:30 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Etudiant,Autres,4,1,200
+2023/05/08 1:10:27 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Ami,3,1,300
+2023/05/08 1:11:32 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Ami,2,0,150
+2023/05/08 1:13:04 PM UTC+3,Féminin,20 ans - 30 ans,Marié,Etude Secondaire,Ménagère,Ami,1,2,50
+2023/05/08 1:14:02 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Ami,4,2,100
+2023/05/08 1:15:33 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Autres,Autres,2,1,200
+2023/05/08 1:16:43 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ménagère,Copain,2,1,50
+2023/05/08 1:17:49 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Copain,2,2,100
+2023/05/08 1:19:56 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude Secondaire,Ingénieur,Copain,2,10,300
+2023/05/08 1:23:00 PM UTC+3,Masculin,20 ans - 30 ans,Marié,Etude Secondaire,Agriculteur,Ami,5,1,100
+2023/05/08 1:24:28 PM UTC+3,Féminin,30 ans - 50 ans,Célibataire,Etude Secondaire,Autres,Conjoint,0.5,0,100
+2023/05/08 1:26:01 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ménagère,Familier,1,1,90
+2023/05/08 1:27:19 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Médecin,Ami,1,0,300
+2023/05/08 1:28:17 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Autres,Autres,3,0,250
+2023/05/08 1:29:12 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Commerçant,Conjoint,2,1,100
+2023/05/08 1:30:10 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude Secondaire,Commerçant,Conjoint,1,1,100
+2023/05/08 1:31:15 PM UTC+3,Féminin,50 ans - 65,Marié,Etude Secondaire,Enseignant,Parents-fils,3,2,200
+2023/05/08 1:32:25 PM UTC+3,Masculin,30 ans - 50 ans,Divorcé,Etude Secondaire,Médecin,Autres,1,0,150
+2023/05/08 1:33:25 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Pas d’étude,Ménagère,Employé-Employeur,2,2,90
+2023/05/08 1:34:27 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Autres,3,10,300
+2023/05/08 1:35:20 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Commerçant,Copain,2,1,200
+2023/05/08 1:36:11 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,3,2,100
+2023/05/08 1:37:46 PM UTC+3,Masculin,30 ans - 50 ans,Veuf,Etude universitaire,Médecin,Employé-Employeur,5,10,200
+2023/05/08 1:39:30 PM UTC+3,Masculin,30 ans - 50 ans,Divorcé,Etude Secondaire,Ménagère,Parents-fils,4,2,80
+2023/05/08 1:40:30 PM UTC+3,Féminin,15 - 20 ans,Marié,Etude primaire,Ménagère,Employé-Employeur,3,10,40
+2023/05/08 1:41:34 PM UTC+3,Masculin,20 ans - 30 ans,Marié,Etude Secondaire,Enseignant,Ami,2,1,80
+2023/05/08 1:42:45 PM UTC+3,Féminin,50 ans - 65,Marié,Etude universitaire,Agriculteur,Familier,3,10,70
+2023/05/08 1:43:48 PM UTC+3,Féminin,15 - 20 ans,Célibataire,Etude universitaire,Agriculteur,Parents-fils,1,0,70
+2023/05/08 1:44:59 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Employé-Employeur,4,2,200
+2023/05/08 1:46:17 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Médecin,Employé-Employeur,4,2,300
+2023/05/08 1:47:08 PM UTC+3,Masculin,20 ans - 30 ans,Marié,Etude Secondaire,Ménagère,Familier,4,2,100
+2023/05/08 1:48:13 PM UTC+3,Féminin,20 ans - 30 ans,Divorcé,Etude Secondaire,Enseignant,Ami,3,1,100
+2023/05/08 1:49:33 PM UTC+3,Masculin,65 - 10,Marié,autres,Ingénieur,Autres,10,10,200
+2023/05/08 1:51:20 PM UTC+3,Masculin,50 ans - 65,Veuf,Etude universitaire,Médecin,Familier,10,10,200
+2023/05/08 1:52:34 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Pas d’étude,Chômeur,Autres,0.5,0,20
+2023/05/08 1:53:52 PM UTC+3,Féminin,15 - 20 ans,Marié,Etude Secondaire,Ménagère,Ami,0.5,2,40
+2023/05/08 1:55:09 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Autres,Autres,3,10,350
+2023/05/08 1:56:19 PM UTC+3,Féminin,30 ans - 50 ans,Veuf,Pas d’étude,Autres,Employé-Employeur,1,2,100
+2023/05/08 1:57:33 PM UTC+3,Féminin,30 ans - 50 ans,Veuf,Pas d’étude,Autres,Employé-Employeur,1,2,60
+2023/05/08 1:58:38 PM UTC+3,Masculin,50 ans - 65,Veuf,Etude universitaire,Ingénieur,Familier,10,10,180
+2023/05/08 1:59:46 PM UTC+3,Féminin,30 ans - 50 ans,Divorcé,Etude Secondaire,Enseignant,Familier,4,2,100
+2023/05/08 2:07:14 PM UTC+3,Féminin,20 ans - 30 ans,Marié,Etude Secondaire,Enseignant,Ami,3,0,100
+2023/05/08 2:08:19 PM UTC+3,Féminin,65 - 10,Marié,Etude Secondaire,Médecin,Conjoint,3,10,100
+2023/05/08 2:09:36 PM UTC+3,Féminin,30 ans - 50 ans,Divorcé,Pas d’étude,Agriculteur,Parents-fils,10,10,60
+2023/05/08 2:11:00 PM UTC+3,Masculin,20 ans - 30 ans,Marié,Etude universitaire,Ménagère,Ami,3,2,50
+2023/05/08 2:16:20 PM UTC+3,Féminin,50 ans - 65,Veuf,Pas d’étude,Agriculteur,Familier,0.5,0,100
+2023/05/08 2:17:32 PM UTC+3,Féminin,50 ans - 65,Marié,Pas d’étude,Autres,Copain,3,1,200
+2023/05/08 2:18:31 PM UTC+3,Féminin,30 ans - 50 ans,Célibataire,Pas d’étude,Agriculteur,Familier,0.5,0,50
+2023/05/08 2:19:38 PM UTC+3,Masculin,30 ans - 50 ans,Divorcé,autres,Chômeur,Ami,2,1,40
+2023/05/08 2:21:55 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Etudiant,Parents-fils,2,1,200
+2023/05/08 2:27:17 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Etudiant,Parents-fils,3,2,80
+2023/05/08 2:28:11 PM UTC+3,Féminin,15 - 20 ans,Célibataire,Etude Secondaire,Commerçant,Familier,2,0,80
+2023/05/08 2:29:25 PM UTC+3,Masculin,15 - 20 ans,Divorcé,Pas d’étude,Enseignant,Ami,5,1,100
+2023/05/08 2:30:20 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Familier,1,0,150
+2023/05/08 2:31:16 PM UTC+3,Masculin,65 - 10,Veuf,Pas d’étude,Ménagère,Autres,10,10,40
+2023/05/08 2:32:42 PM UTC+3,Masculin,50 ans - 65,Marié,autres,Médecin,Ami,5,10,500
+2023/05/08 2:43:17 PM UTC+3,Féminin,65 - 10,Marié,Etude universitaire,Médecin,Ami,4,10,350
+2023/05/08 2:43:57 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Médecin,Ami,4,10,250
+2023/05/25 1:58:49 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Médecin,Employé-Employeur,4,10,300
+2023/05/25 1:59:43 PM UTC+3,Masculin,65 - 10,Marié,autres,Enseignant,Employé-Employeur,2,10,300
+2023/05/25 2:00:41 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Enseignant,Employé-Employeur,5,10,300
+2023/05/25 2:01:31 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Médecin,Employé-Employeur,3,10,300
+2023/05/25 2:02:57 PM UTC+3,Masculin,50 ans - 65,Divorcé,Etude universitaire,Enseignant,Employé-Employeur,5,10,200
+2023/05/30 1:26:14 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Agriculteur,Familier,1,0,80
+2023/05/30 1:27:23 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Enseignant,Familier,1,1,350
+2023/05/30 1:28:28 PM UTC+3,Masculin,50 ans - 65,Veuf,Etude universitaire,Commerçant,Parents-fils,5,10,80
+2023/05/30 1:34:11 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,2,0,70
+2023/05/30 1:36:19 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,3,0,80
+2023/05/30 1:45:09 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Enseignant,Familier,2,0,70
+2023/05/30 1:46:34 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,3,0,50
+2023/05/30 1:49:38 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,2,0,70
+2023/05/30 1:55:17 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Familier,2,0,70
+2023/05/30 1:58:29 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,4,0,70
+2023/05/30 1:59:40 PM UTC+3,Féminin,30 ans - 50 ans,Célibataire,Etude universitaire,Agriculteur,Ami,2,0,100
+2023/05/30 2:01:06 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude universitaire,Agriculteur,Parents-fils,1,1,100
+2023/05/30 2:33:13 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude Secondaire,Enseignant,Employé-Employeur,2,0,80
+2023/05/30 2:47:17 PM UTC+3,Féminin,65 - 10,Marié,autres,Autres,Employé-Employeur,10,10,1000
+2023/05/30 2:48:27 PM UTC+3,Masculin,65 - 10,Marié,autres,Autres,Employé-Employeur,10,10,1000
+2023/05/30 2:52:03 PM UTC+3,Masculin,65 - 10,Marié,autres,Autres,Autres,10,10,500
+2023/05/30 2:54:01 PM UTC+3,Masculin,50 ans - 65,Marié,autres,Autres,Autres,10,10,800
+2023/05/30 2:55:12 PM UTC+3,Masculin,65 - 10,Marié,autres,Médecin,Ami,10,10,500
+2023/05/30 2:57:05 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Médecin,Familier,10,10,300
+2023/05/30 3:01:17 PM UTC+3,Masculin,50 ans - 65,Autres,autres,Ingénieur,Ami,5,2,150
+2023/05/30 3:04:52 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Autres,Parents-fils,5,2,200
+2023/05/30 3:17:33 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude Secondaire,Autres,Employé-Employeur,10,10,90
+2023/05/30 3:19:03 PM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude Secondaire,Agriculteur,Parents-fils,5,2,100
+2023/05/30 3:34:01 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Enseignant,Employé-Employeur,5,0,300
+2023/05/30 3:35:36 PM UTC+3,Féminin,50 ans - 65,Marié,Pas d’étude,Commerçant,Familier,10,10,90
+2023/05/30 3:39:36 PM UTC+3,Féminin,30 ans - 50 ans,Célibataire,Etude universitaire,Enseignant,Copain,3,0,200
+2023/05/30 4:10:45 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Familier,4,0,200
+2023/05/31 2:45:21 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Ménagère,Ami,2,0,50
+2023/05/31 2:47:00 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Employé-Employeur,3,0,100
+2023/05/31 2:48:23 PM UTC+3,Masculin,30 ans - 50 ans,Divorcé,Etude Secondaire,Autres,Employé-Employeur,3,2,70
+2023/05/31 2:49:32 PM UTC+3,Masculin,65 - 10,Marié,autres,Autres,Autres,10,10,380
+2023/05/31 2:50:27 PM UTC+3,Masculin,50 ans - 65,Veuf,Etude Secondaire,Médecin,Employé-Employeur,4,10,80
+2023/05/31 2:52:30 PM UTC+3,Masculin,50 ans - 65,Veuf,Etude universitaire,Médecin,Employé-Employeur,10,10,300
+2023/05/31 2:54:26 PM UTC+3,Féminin,50 ans - 65,Divorcé,autres,Agriculteur,Parents-fils,5,10,300
+2023/05/31 4:40:00 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude Secondaire,Commerçant,Ami,4,0,80
+2023/06/02 11:38:52 AM UTC+3,Féminin,30 ans - 50 ans,Célibataire,Etude universitaire,Agriculteur,Familier,4,0,100
+2023/06/06 12:15:25 PM UTC+3,Féminin,15 - 20 ans,Célibataire,Etude Secondaire,Commerçant,Familier,2,0,100
+2023/06/06 12:20:02 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude Secondaire,Ménagère,Parents-fils,1,0,50
+2023/06/06 12:26:12 PM UTC+3,Féminin,50 ans - 65,Divorcé,Pas d’étude,Ménagère,Autres,10,10,50
+2023/06/06 12:27:28 PM UTC+3,Féminin,50 ans - 65,Marié,Etude Secondaire,Ménagère,Employé-Employeur,10,10,80
+2023/06/06 12:28:38 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,autres,Autres,Autres,4,10,300
+2023/06/06 12:29:28 PM UTC+3,Féminin,30 ans - 50 ans,Divorcé,Etude universitaire,Enseignant,Employé-Employeur,10,10,300
+2023/06/06 12:32:34 PM UTC+3,Masculin,50 ans - 65,Célibataire,Etude Secondaire,Agriculteur,Copain,3,0,100
+2023/06/06 12:34:21 PM UTC+3,Féminin,30 ans - 50 ans,Marié,autres,Autres,Employé-Employeur,4,1,100
+2023/06/06 12:35:49 PM UTC+3,Masculin,50 ans - 65,Marié,autres,Autres,Autres,10,10,300
+2023/06/06 12:58:16 PM UTC+3,Masculin,30 ans - 50 ans,Marié,autres,Autres,Employé-Employeur,10,10,300
+2023/06/06 1:00:50 PM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Enseignant,Parents-fils,4,10,300
+2023/06/06 1:02:02 PM UTC+3,Masculin,50 ans - 65,Autres,Etude universitaire,Commerçant,Ami,3,0,100
+2023/06/06 1:12:01 PM UTC+3,Masculin,50 ans - 65,Autres,autres,Commerçant,Parents-fils,3,10,80
+2023/06/06 1:18:14 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,2,0,80
+2023/06/06 1:20:13 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Commerçant,Ami,4,0,50
+2023/06/06 1:21:24 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Commerçant,Ami,2,0,50
+2023/06/06 1:26:55 PM UTC+3,Féminin,30 ans - 50 ans,Célibataire,Etude Secondaire,Commerçant,Ami,4,0,50
+2023/06/06 1:30:34 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude Secondaire,Commerçant,Parents-fils,2,0,50
+2023/06/06 2:02:05 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Pas d’étude,Commerçant,Ami,5,0,50
+2023/06/06 2:03:31 PM UTC+3,Féminin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Ami,2,0,50
+2023/06/06 3:03:22 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude Secondaire,Enseignant,Ami,3,0,70
+2023/06/06 3:22:16 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Ingénieur,Ami,4,0,200
+2023/06/06 3:51:30 PM UTC+3,Masculin,50 ans - 65,Célibataire,Pas d’étude,Agriculteur,Familier,0.5,0,100
+2023/06/06 4:52:48 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Pas d’étude,Ménagère,Autres,2,2,50
+2023/06/07 9:58:32 AM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude Secondaire,Commerçant,Employé-Employeur,2,0,70
+2023/06/07 10:07:02 AM UTC+3,Féminin,30 ans - 50 ans,Autres,autres,Autres,Autres,10,10,1000
+2023/06/07 10:08:14 AM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Pas d’étude,Commerçant,Familier,0.5,0,100
+2023/06/07 11:11:35 AM UTC+3,Masculin,30 ans - 50 ans,Divorcé,Etude universitaire,Enseignant,Employé-Employeur,3,2,300
+2023/06/07 11:30:18 AM UTC+3,Féminin,15 - 20 ans,Célibataire,Pas d’étude,Ménagère,Autres,0.5,0,50
+2023/06/07 11:32:10 AM UTC+3,Masculin,15 - 20 ans,Célibataire,Pas d’étude,Ménagère,Autres,4,0,100
+2023/06/07 4:23:40 PM UTC+3,Masculin,65 - 10,Divorcé,autres,Autres,Autres,10,10,500
+2023/06/07 4:24:40 PM UTC+3,Féminin,65 - 10,Autres,autres,Autres,Autres,10,10,500
+2023/06/07 4:43:17 PM UTC+3,Masculin,15 - 20 ans,Célibataire,Pas d’étude,Ménagère,Parents-fils,5,0,50
+2023/06/08 10:15:45 AM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Employé-Employeur,3,0,100
+2023/06/08 11:36:36 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,autres,Commerçant,Autres,5,0,80
+2023/06/12 9:01:11 AM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Pas d’étude,Commerçant,Employé-Employeur,1,0,50
+2023/06/12 9:39:42 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,3,0,150
+2023/06/12 9:43:45 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,3,0,150
+2023/06/12 10:45:52 AM UTC+3,Masculin,30 ans - 50 ans,Autres,Etude universitaire,Agriculteur,Employé-Employeur,3,10,100
+2023/06/12 11:17:47 AM UTC+3,Masculin,50 ans - 65,Marié,autres,Autres,Autres,5,10,500
+2023/06/12 11:19:45 AM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Etudiant,Ami,2,0,100
+2023/06/15 10:12:52 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Etudiant,Familier,1,0,20
+2023/06/15 1:33:23 PM UTC+3,Féminin,50 ans - 65,Divorcé,autres,Autres,Employé-Employeur,4,2,350
+2023/06/15 1:36:34 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Autres,Employé-Employeur,0.5,0,300
+2023/06/15 2:40:46 PM UTC+3,Masculin,30 ans - 50 ans,Marié,Etude universitaire,Ingénieur,Employé-Employeur,2,0,100
+2023/06/15 2:42:14 PM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Autres,3,1,80
+2023/06/16 10:26:18 AM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Commerçant,Employé-Employeur,4,0,80
+2023/06/16 10:26:36 AM UTC+3,Féminin,20 ans - 30 ans,Marié,Pas d’étude,Commerçant,Employé-Employeur,2,2,70
+2023/06/16 10:27:00 AM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Ingénieur,Ami,3,10,100
+2023/06/16 10:27:31 AM UTC+3,Masculin,50 ans - 65,Marié,Etude universitaire,Enseignant,Employé-Employeur,5,2,300
+2023/06/16 10:28:03 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Pas d’étude,Ménagère,Familier,1,0,50
+2023/06/16 10:28:24 AM UTC+3,Masculin,65 - 10,Autres,autres,Autres,Autres,10,10,300
+2023/06/16 10:28:43 AM UTC+3,Masculin,65 - 10,Marié,autres,Autres,Autres,10,10,500
+2023/06/16 10:29:15 AM UTC+3,Masculin,50 ans - 65,Marié,Pas d’étude,Agriculteur,Ami,10,10,100
+2023/06/16 10:29:42 AM UTC+3,Masculin,20 ans - 30 ans,Marié,Etude Secondaire,Enseignant,Familier,3,2,80
+2023/06/16 10:30:32 AM UTC+3,Féminin,30 ans - 50 ans,Marié,Etude Secondaire,Agriculteur,Copain,2,1,200
+2023/06/16 10:31:08 AM UTC+3,Féminin,15 - 20 ans,Célibataire,Etude Secondaire,Ménagère,Familier,1,0,100
+2023/06/16 10:31:43 AM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude Secondaire,Chômeur,Autres,1,0,20
+2023/06/16 10:32:15 AM UTC+3,Féminin,20 ans - 30 ans,Marié,Etude universitaire,Enseignant,Employé-Employeur,0.5,1,100
+2023/06/16 3:28:26 PM UTC+3,Féminin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,1,0,200
+2023/06/19 9:17:48 AM UTC+3,Masculin,30 ans - 50 ans,Célibataire,Etude universitaire,Enseignant,Ami,3,1,200
+2023/06/19 1:31:43 PM UTC+3,Masculin,20 ans - 30 ans,Célibataire,Etude universitaire,Ingénieur,Employé-Employeur,1,0,200
